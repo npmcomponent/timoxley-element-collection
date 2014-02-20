@@ -2,8 +2,8 @@
  * Module Dependencies
  */
 
-var toArray = require('to-array')
-var Enumerable = require('enumerable')
+var toArray = require('timoxley-to-array')
+var Enumerable = require('component-enumerable')
 
 /**
  * Create an ElementList

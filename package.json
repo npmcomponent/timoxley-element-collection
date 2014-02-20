@@ -1,0 +1,11 @@
+{
+  "name": "timoxley-element-collection",
+  "description": "Enumerable DOM Element Collection",
+  "version": "0.0.3",
+  "keywords": [],
+  "dependencies": {
+    "timoxley-to-array": "git://github.com/npmcomponent/timoxley-to-array.git",
+    "component-enumerable": "git://github.com/npmcomponent/component-enumerable.git"
+  },
+  "license": "MIT"
+}
